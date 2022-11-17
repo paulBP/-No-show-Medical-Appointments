@@ -4,9 +4,8 @@ In this project, I'll analyze a medical appointment dataset and find out importa
 
 Questions Under Investigation:
 
-- What's the percentage of missed appointments?
-- Is SMS reminder helpful for patients to show-up to the appointment?
-- Is welfare program Bolsa Familia helping patients to show up for their appointments?
-- Which neighbourhood has the highest number of no-shows?
-- Are health condition variables: hypertension, diabetes, alcoholism, handicap related to no-show?
-- Is age related to no-show? What is the age distribution for shows and no-shows?
+- What factors are important for us to know in order to predict if a patient will show up for
+- Their scheduled appointment or not ?
+- Is there any relationship between age and patients who showed-up or not ?;
+- Is the Gender of the patient an important factor to predict if a patient will show up or not ?
+- Does the fact of receiving an sms an important indicator to predict if a patient will show up
